@@ -65,9 +65,27 @@
     padding: 50px;
 }
 
+.producto{
+    width: 50vw;
+    text-align: center;
+    /* margin: .5rem; */
+}
 
+.producto img{
+    width: 50vw;
+}
+.prod-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
 
-
+.footer{
+    display: flex;
+    text-align: right;
+    background-color: black;
+    color: white;
+}
 
 
 .icon img{
