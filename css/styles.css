@@ -63,13 +63,15 @@
     color: white;
     text-align: center;
     padding: 50px;
-
-
 }
 
-.banner-hero{
-    background-image: url(../recursos/fondo.jpg)
-    height: 50vh;
-    background-size: cover
 
 
+
+
+
+.icon img{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
